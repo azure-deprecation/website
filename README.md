@@ -1,2 +1,3 @@
-# GitHub Template
-GitHub template for all my future GitHub repos
+# Website
+
+Source code for [azure-deprecation-notices.cloud](https://azure-deprecation-notices.cloud).
